@@ -1,12 +1,11 @@
 body {
-    background-image: url("GameStore.jpeg");
-    background-size: cover;
     font-family: BlinkMacSystemFont, -apple-system, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
     font-weight: bold;
     text-align: center;
     color: white;
     text-shadow: 0px 0px 5px black;
     height: 100vh;
+    background-color: rgb(68, 105, 117);
 }
 
 h1 {
@@ -40,6 +39,8 @@ button {
 }
 
 .size {
+    background-image: url("GameStore.jpeg");
+    background-size: cover;
     width: 300px;
     margin: 0 auto;
 }
